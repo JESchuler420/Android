@@ -146,7 +146,7 @@
   <project path="external/rust/crates/zip" name="platform/external/rust/crates/zip" revision="main" />
 
   <!-- Rust crate monorepo -->
-  <project path="external/rust/android-crates-io" name="platform/external/rust/android-crates-io" revision="52654b2ce77eec1659db64638ceb7d6b6248d8b8"/>
+  <project path="external/rust/android-crates-io" name="platform/external/rust/android-crates-io" revision="0a0056b2960e21cc9b541b6e6bd5435ae9c413b4"/>
 
   <!-- Temporarily disabled See: b/266452325, add this section to a local_manifest if you need rust
     i.e. add this to $AOSP_ROOT/.repo/local_manfiests/chromium.xml
